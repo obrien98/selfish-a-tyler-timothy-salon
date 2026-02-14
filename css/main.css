@@ -336,9 +336,13 @@ body {
 }
 @media (max-width: 768px) {
     .hero-title {
-        font-size: 2.2rem;
+        font-size: 1.5rem;
         line-height: 1.2;
     }
+  }
+  .temp-logo{
+  font-size:1.3rem;
+  }
 }
 
 
